@@ -1,0 +1,46 @@
+<center>
+<div class="alert">
+<span class="closebtn" onclick="this.parentElement.style.display='none';">x</span>
+<center>
+<b>
+<font color="WHITE" size="3px">
+"We have Changed our Official Domain name to" 
+<a href="https://kdramasurdu.blogspot.com" data-wpel-link="external" targent="_blank" rel="nofollow external noopener noreferrer">
+KDramasUrdu.blogspot.com</a>
+"Save our new official domain."
+</font>
+</b>
+</center>
+<div>
+<br>
+</center>
+
+<style>
+.alert {
+    padding: 5px;
+    background-color: #228B22;
+    color: white;
+    width: 90%;
+    
+}
+		.alert a{
+			color:white;
+			text-decoration: none;
+		}
+
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.closebtn:hover {
+    color: black;
+}
+
+</style>
